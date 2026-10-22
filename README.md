@@ -30,7 +30,7 @@ Foil turns the coding agents you already use (Claude Code, Codex, Gemini, OpenCo
 
 ### 📊 [AI Limits](https://github.com/TiantianFlow/ai-limits) · Chrome extension
 
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/hcfdchpajckemcdflcjhigngpipdkdeo.svg?label=Chrome%20Web%20Store&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ai-limits/hcfdchpajckemcdflcjhigngpipdkdeo)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/ai-limits/hcfdchpajckemcdflcjhigngpipdkdeo)
 [![GitHub stars](https://img.shields.io/github/stars/TiantianFlow/ai-limits?style=social)](https://github.com/TiantianFlow/ai-limits)
 
 One side panel for the usage limits and reset times of 23 AI services: ChatGPT, Claude, Cursor, Grok, Kimi, DeepSeek, OpenRouter and more. It shows Used/Left, pace and local quota-history charts, and every provider is opt-in.
